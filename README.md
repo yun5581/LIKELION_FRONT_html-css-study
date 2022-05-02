@@ -3,9 +3,7 @@
 
 ## Youtude Clone coding 
   
-  
-    
 #### [결과물]
-![image width=""](https://user-images.githubusercontent.com/97172766/166248077-667181a3-0edc-47ec-9bcc-62b7bd5c36b5.png)
+![웹 캡처_2-5-2022_233057_](https://user-images.githubusercontent.com/97172766/166251922-f222b74f-b2c4-4e3d-8dd8-0691c89359bd.jpeg)
 
 
